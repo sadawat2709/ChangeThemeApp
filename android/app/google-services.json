@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "681912203108",
+      "project_id": "changetheme-25fe2",
+      "storage_bucket": "changetheme-25fe2.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:681912203108:android:8ded47d4e37de4ba182c71",
+          "android_client_info": {
+            "package_name": "com.example.changethemeapp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "681912203108-peco3i6o0t438usrnce8gqavr6ljvnml.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyADJ53qp_UB1hn45NPbtgvWD5UUgdyD3_w"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "681912203108-peco3i6o0t438usrnce8gqavr6ljvnml.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
